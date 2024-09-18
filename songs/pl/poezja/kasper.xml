@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://21wdh.staszic.waw.pl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://21wdh.staszic.waw.pl https://songbook.21wdw.org/song.xsd" title="Kasper">
+  <lyric>
+    <block type="verse">
+      <row important_over="true">Czy pamiętasz rude włosy? Roześmianą twarz?</row>
+      <row important_over="true">Śmieszną czapkę miał na głowie Kasper, kumpel nasz...</row>
+      <row important_over="true">Gdzie nie poszedł, co nie zrobił - zawsze coś nie tak.</row>
+      <row important_over="true">Forsy nie miał... Domu nie miał... Wolny był jak ptak!</row>
+      <row important_over="true">Dobrze nam się z Kasprem żyło, on polubił nas</row>
+      <row important_over="true">W góry razem się chodziło, ogień nocą się paliło</row>
+    </block>
+    <block type="chorus">
+      <row important_over="false">Kasper z wiatrem dobrze żył</row>
+      <row important_over="false">Fajkę palił, wódkę pił , jak ja...</row>
+      <row important_over="false">jak ty.. jak ja...</row>
+    </block>
+    <block type="verse">
+      <row important_over="false">Miał gitarę złotostrunną, nocą na niej grał.</row>
+      <row important_over="false">Sto piosenek w swym śpiewniku Kasper chyba miał</row>
+      <row important_over="false">Kiedy w miejscu siedzieć przyszło, bo deszcz padał, ciągle padał</row>
+      <row important_over="false">Kasper fajkę swoją tlił, bajdy różnie opowiadał</row>
+      <row important_over="false">Co nie zrobił, czego nie miał - diabeł jeden wie!</row>
+      <row important_over="false">Kiedy fajkę swoją kurzył, świat maleńki stawał się...</row>
+    </block>
+    <blocklink blocknb="2"/>
+    <block type="verse">
+      <row important_over="false">Dzisiaj nie ma Kaspra z nami, zginął po nim ślad</row>
+      <row important_over="false">Gdzieś w Bieszczadach go widzieli - mały jest ten świat</row>
+      <row important_over="false">Gdzie ballady, opowieści?... Gdzie ogniska żar?...</row>
+      <row important_over="false">Kiedy Kaspra nie ma z nami, pryska przygód czar...</row>
+      <row important_over="false">Dobrze nam się z Kasprem żyło, on polubił nas</row>
+      <row important_over="false">W góry razem się chodziło, ogień nocą się paliło </row>
+    </block>
+    <blocklink blocknb="2"/>
+    <block type="other">
+      <row important_over="false">(na melodię: &quot;Hej, Zuzanno&quot;)</row>
+      <row important_over="false">Hej, Zuzanno! Oddaj Kaspra nam!Parapa...</row>
+    </block>
+  </lyric>
+  <keywords/>
+  <status>
+    <done/>
+    <verificators/>
+  </status>
+</song>
