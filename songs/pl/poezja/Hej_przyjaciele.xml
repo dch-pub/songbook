@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <song xmlns="http://21wdh.staszic.waw.pl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://21wdh.staszic.waw.pl https://songbook.21wdw.org/song.xsd" title="Hej przyjaciele">
-	<alias></alias>
 	<text_author type="solo">Paweł Kasperczyk</text_author>
-	<comment></comment>
 	<composer type="solo">Paweł Kasperczyk</composer>
 	<artist type="band">Babsztyl</artist>
-	<translator></translator>
-	<original_title></original_title>
-	<lyric xmlns="http://21wdh.staszic.waw.pl">
+	<lyric>
 		<block type="verse">
 			<row important_over="true">T<ch a="C"/>am, dokąd chciałem j<ch a="G"/>uż nie dojdę, szk<ch a="F"/>oda zdzierać n<ch a="C"/>óg,</row>
 			<row important_over="false">J<ch a="C"/>uż wędrówki n<ch a="G"/>aszej wspólnej n<ch a="F"/>adchodzi kr<ch a="C"/>es.</row>
@@ -38,20 +34,16 @@
 	<music metre="4/4">
 		<guitar barre="0"/>
 	</music>
+	<keywords/>
+	<genre>Inna</genre>
 	<status>
-		<verificators><verificator>Michał Korch</verificator><verificator>
-			</verificator><verificator>
-			</verificator>
-		</verificators>
-		<to_do></to_do>
 		<done>
 			<text/>
 			<authors/>
 			<chords>chord positioning</chords>
 		</done>
+		<verificators>
+			<verificator>Michał Korch</verificator>
+		</verificators>
 	</status>
-	<keywords/>
-	<music_source></music_source>
-	<album></album>
-	<genre>Inna</genre>
 </song>
