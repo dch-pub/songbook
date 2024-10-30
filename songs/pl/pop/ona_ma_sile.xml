@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://21wdh.staszic.waw.pl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://21wdh.staszic.waw.pl https://songbook.21wdw.org/song.xsd" title="Ona ma siłę">
+  <artist type="solo">Varius Manx</artist>
+  <lyric>
+    <block type="other">
+      <row important_over="false" style="instr"> <ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/><ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+    </block>
+    <block type="verse">
+      <row important_over="true"><ch a="e"/>Zanim p<ch a="D"/>owiesz jej <ch a="a"/>że <ch a="a"/></row>
+      <row important_over="true"><ch a="e"/> to był <ch a="D"/>ostatni r<ch a="a"/>az <ch a="a"/></row>
+      <row important_over="true"><ch a="e"/>Zanim dzień spłoszy s<ch a="D"/>rebrnego ptaka n<ch a="a"/>ocy <ch a="a"/></row>
+      <row important_over="true"><ch a="C"/>Rozkołysz, r<ch a="C"/>ozkołysz, r<ch a="C"/>ozkołysz <ch a="C"/></row>
+      <row important_over="true"><ch a="e"/>Jeszcze r<ch a="D"/>az... <ch a="a"/><ch a="a"/></row>
+      <row important_over="never">Zanim ukradniesz jej<ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+      <row important_over="never">ostatni kolor ze snów<ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+      <row important_over="never">Zanim gdy na chwile zamkniesz oczy znikniesz<ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+      <row important_over="never">Zabierz jej zabierz jej zabierz jej<ch a="C"/><ch a="C"/><ch a="C"/><ch a="C"/></row>
+      <row important_over="never">Z ręki nóż...<ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+    </block>
+    <block type="chorus">
+      <row important_over="true"><ch a="G"/>Ona <ch a="a"/>m<ch a="e"/>a s<ch a="D"/>ilę </row>
+      <row important_over="true"><ch a="G"/>Nie wiesz <ch a="a"/>jak<ch a="e"/> wi<ch a="D"/>elka </row>
+      <row important_over="true"><ch a="G"/>Będzie s<ch a="a"/>pa<ch a="e"/>dać dł<ch a="D"/>ugo </row>
+      <row important_over="true">potem wstanie lekko <ch a="G"/><ch a="a"/><ch a="e"/><ch a="D"/></row>
+    </block>
+    <block type="verse">
+      <row important_over="never">Zanim zrozumiesz jak<ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+      <row important_over="never">bardzo kochałeś ja<ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+      <row important_over="never">zanim pobiegniesz kupić czerwone wino<ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+      <row important_over="never">ona zapomni zapomni już<ch a="C"/><ch a="C"/><ch a="C"/><ch a="C"/></row>
+      <row important_over="never">ślad Twych rąk<ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+    </block>
+    <block type="verse">
+      <row important_over="never">Zanim będziesz próbował<ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+      <row important_over="never">odkupić ja za słowa<ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+      <row important_over="never">zobaczysz jak na drugim brzegu rzeki<ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+      <row important_over="never">ona spokojnie, spokojnie, spokojnie...<ch a="C"/><ch a="C"/><ch a="C"/><ch a="C"/></row>
+      <row important_over="never">stoi z nim...<ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+    </block>
+    <block type="chorus">
+      <row important_over="never">Ona ma siłę<ch a="G"/><ch a="a"/><ch a="e"/><ch a="D"/></row>
+      <row important_over="never">nie wiesz jak wielką<ch a="G"/><ch a="a"/><ch a="e"/><ch a="D"/></row>
+      <row important_over="never">umierała długo<ch a="G"/><ch a="a"/><ch a="e"/><ch a="D"/></row>
+      <row important_over="never">teraz rodzi się lekko... (x2)<ch a="G"/><ch a="a"/><ch a="e"/><ch a="D"/></row>
+    </block>
+    <block type="verse">
+      <row important_over="never">nie dla Ciebie... <ch a="e"/><ch a="D"/><ch a="a"/><ch a="a"/></row>
+    </block>
+  </lyric>
+  <keywords/>
+  <genre>Rock</genre>
+  <status>
+    <done/>
+    <verificators/>
+  </status>
+</song>
